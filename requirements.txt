@@ -1,0 +1,4 @@
+rapidocr-onnxruntime
+opencv-python-headless
+openpyxl
+numpy
